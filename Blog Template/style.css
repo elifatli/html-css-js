@@ -1,0 +1,10 @@
+.navbar{
+    opacity: 0.8;
+    border-bottom: 1px solid #fff;
+}
+
+.jumbotron {
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-position: 50% 30%;
+}
